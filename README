@@ -1,1 +1,5 @@
-A simplistic draugths board realized using Rapha‘l.js and JQuery.
+A simplistic draugths board realized using Raphael.js and JQuery.
+
+See the demo at http://madewulf.github.com/RaphaelDraughts/
+
+Distributed under MIT License.
